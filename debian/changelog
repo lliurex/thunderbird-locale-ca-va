@@ -1,0 +1,16 @@
+thunderbird-locale-ca-va (60.2.1-1lliurex) bionic; urgency=medium
+  * Initial bionic release
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Tue, 11 Dec 2018 13:36:18 +0100
+
+thunderbird-locale-ca-va (52.0.1) xenial; urgency=medium
+
+  * Fix typo
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Tue, 26 Jun 2018 13:16:56 +0200
+
+thunderbird-locale-ca-va (52.0) xenial; urgency=medium
+
+  * Initial release. 
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Mon, 25 Jun 2018 14:08:29 +0200
