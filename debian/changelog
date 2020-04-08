@@ -1,3 +1,9 @@
+thunderbird-locale-ca-va (68.0) bionic; urgency=medium
+
+  * Update to version 68
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 08 Apr 2020 12:05:21 +0200
+
 thunderbird-locale-ca-va (60.2.1-2lliurex) bionic; urgency=medium
   * Initial bionic release
 
