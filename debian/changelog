@@ -1,6 +1,12 @@
+thunderbird-locale-ca-va (68.10) focal; urgency=medium
+
+  * Updated to 68.10
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 05 May 2021 18:36:22 +0200
+
 thunderbird-locale-ca-va (68.0) bionic; urgency=medium
 
-  * Update to version 68
+  * Update to release 68.0
 
  -- Juanma1980 <juanma1980@gmail.com>  Wed, 08 Apr 2020 12:05:21 +0200
 
