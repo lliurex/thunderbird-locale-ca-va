@@ -9,6 +9,6 @@ Homepage: http://lliurex.net
 
 Package: thunderbird-locale-ca-va
 Architecture: all
-Depends: ${misc:Depends}, thunderbird(>=68.0)
+Depends: ${misc:Depends}, thunderbird(>=68.10)
 Description: Valencian language pack for thunderbird
 
